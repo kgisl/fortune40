@@ -20,7 +20,7 @@ Points discussed:
 
 5. At the end of the discussion, the action items that are made to be undergone are :
 	- Should come up with video on http://j.mp/haveNoFive problem statement.
-	- Should prepare a documentation on how the "RPA for Anna University web portal" works by undergoing some research on it
+	- Should prepare a documentation on how the **"RPA for Anna University Web portal"** works by undergoing some research on it
 		- Become a user of the project and see how it works
 		- Recreate the same in UI_Path from scratch 
 		- Recreate using Javascript or an open source tool 
